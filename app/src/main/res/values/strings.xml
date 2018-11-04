@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kepariwisataan Kota Bima</string>
+    <string name="title_activity_peta_dasar">Peta Dasar</string>
+    <string name="title_activity_peta_sintetic">Map</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="access_token">pk.eyJ1IjoicGFuamlzb2IiLCJhIjoiY2puenNrbTJyMGVqazN2bWI4bTNldjRkYyJ9.VY-woForn-S9VUG4iXhISw</string>
+</resources>
